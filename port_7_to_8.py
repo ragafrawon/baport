@@ -1,4 +1,4 @@
-# Usage: port_7_to_8.py <client/server type of mod> <plugin-name>
+# Usage: port_7_to_8.py <client/server type of mod> <basketball.py>
 
 # You'll have to manually update the following:
 # with ba.Context(_ba.foreground_host_activity()):
